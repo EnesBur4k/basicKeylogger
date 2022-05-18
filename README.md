@@ -1,3 +1,3 @@
 # basicKeylogger
 
-The first keylogger i created after taking Atil Samancioğlu's python course.
+The first keylogger i created after finishing Atil Samancioğlu's python course.
